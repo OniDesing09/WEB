@@ -36,6 +36,7 @@ src: url(../font/True Lies.ttf);
 	position: fixed;
 	z-index: 1;
 	top: 0;left: 0;
+
 }
 .container{
 	width: 90%;
